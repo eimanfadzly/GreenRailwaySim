@@ -1,0 +1,12 @@
+Station,Upside,Downside
+Flinders Street,_,Richmond
+Richmond,Flinders Street,South Yarra
+South Yarra,Richmond,Hawksburn
+Hawksburn,South Yarra,Toorak
+Toorak,Hawksburn,Armadale
+Armadale,Toorak,Malvern
+Malvern,Armadale,Caulfield
+Caulfield,Malvern,Carnegie
+Carnegie,Caulfield,Murrumbeena
+Murrumbeena,Carnegie,Oakleigh
+Oakleigh,Murrumbeena,_

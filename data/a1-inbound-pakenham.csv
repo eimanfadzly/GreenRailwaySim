@@ -1,0 +1,7 @@
+Activity,Session,Oakleigh,Murrumbeena,Carnegie,Caulfield,Malvern,Armadale,Toorak,Hawksburn,South Yarra,Richmond,Flinders Street
+Load,Morning,2000,1800,1600,500,500,10,15,25,10,10,0
+Unload,Morning,0,647,647,647,647,647,647,647,647,647,647
+Load,Afternoon,10,10,20,20,30,500,500,1600,1800,1800,0
+Unload,Afternoon,0,5,10,25,35,50,1233,1233,1233,1233,1233
+Load,Evening,0,0,50,100,150,200,250,300,350,400,0
+Unload,Evening,0,0,0,120,120,120,288,288,288,288,288
